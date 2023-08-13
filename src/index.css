@@ -1,13 +1,225 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html {
+  /* font-size: 10px; */
+  /* 10px / 16px = 0.625 = 62.5% */
+  /* Percentage of user's browser font-size setting */
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #fff4e6;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #343a40;
+  line-height: 1;
+  overflow-x: hidden;
+}
+
+.container {
+  width: 110.0rem;
+  margin: 0 auto;
+}
+
+header {
+  background-color: black;
+  padding: 1.5rem;
+}
+
+
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-image {
+  height: 24px;
+  width: 24px;
+  margin-right: 1.0rem;
+}
+
+.logo-header {
+  display: flex;
+  align-items: center;
+}
+
+.logo-header h1 {
+  font-size: 2.8rem;
+  color: #f8f9fa;
+  letter-spacing: 2px;
+}
+
+.navigation {
+  list-style: none;
+
+
+  display: flex;
+  align-items: center;
+  gap: 1.8rem;
+}
+
+.page-header {
+  margin: 6.4rem 0 2.6rem 0;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-size: 4.8rem;
+  color: #000;
+  margin: 0 0 1.38rem;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.title-underline {
+	height: 0.4rem;
+    width: 7rem;
+    background: #60dbfb;
+    margin: 1rem auto 0px;
+	margin-bottom: 25px;
+}
+
+.search-box {
+  background-color: #dee2e6;
+  padding: 1.8rem;
+  margin-bottom: 3.2rem;
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+label {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-right: 1.0rem;
+}
+
+input, select {
+  border: none;
+  font-size: 1.4rem;
+  padding: 0.5rem;
+  border-radius: 3px;
+}
+
+.btn {
+  background-color: #868e96;
+  color: #FFF;
+  font-size: 1.2rem;
+  font-weight: 700;
+  border: none;
+  padding: 1.0rem 1.5rem;
+  border-radius: 3px;
+}
+
+
+
+.nav-link:link, .nav-link:visited{
+  text-decoration: none;
+  color: #f8f9fa;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.nav-link:hover, .nav-link:active{
+  color: #e03131;
+}
+
+.grid {
+  display: grid;
+  column-gap: 3.2rem;
+  row-gap: 9.6rem;
+}
+
+.grid--4-cols {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.shoe-box {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 1.5rem;
+  background-color: #FFF;
+
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+
+
+.product-image {
+  width: 100%;
+  height: 100%;
+}
+
+.image-spacer{
+  width: 100%;
+  height: 13.0rem;
+  background-color: #e9ecef;
+  text-align: center;
+  position: relative;
+}
+
+.image-spacer h2 {
+  text-transform: uppercase;
+  font-size: 3.2rem;
+  color:#ced4da;
+  position: absolute;
+}
+
+.shoe-box h2 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  padding-top: 1.5rem;
+}
+
+.price{
+  font-size: 1.4rem;
+  font-weight: 700;
+  color:#37b24d;
+}
+
+.release-year, .brand, .gender {
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
+
+.stockx-logo {
+  height: 62px;
+  width: 84px;
+  cursor: pointer;
+}
+
+.flight-club-logo {
+  height: 20px;
+  width: 80px;
+  cursor: pointer;
+}
+
+.goat-logo{
+  height: 20px;
+  width: 45px;
+  cursor: pointer;
+}
+
+.stadium-goods-logo {
+  width: 82px;
+  height: 82px;
+  cursor: pointer;
+}
+
+.store-logos {
+  display: flex;
+  align-items: center;
 }

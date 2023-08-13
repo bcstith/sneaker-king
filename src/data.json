@@ -1,0 +1,262 @@
+[
+  {
+      "id": "27953277-108e-4315-bbeb-3f0f7e87d230",
+      "brand": "Jordan",
+      "colorway": "White/Wheat",
+      "estimatedMarketValue": 200,
+      "gender": "men",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/air-jordan-13-retro-wheat-2023-414571-171",
+          "flightClub": "https://flightclub.com/air-jordan-13-retro-wheat-2023-414571-171",
+          "stadiumGoods": ""
+      },
+      "name": "Air Jordan 13 Retro 'Wheat' 2023",
+      "releaseDate": "2023-12-26",
+      "releaseYear": "2023",
+      "retailPrice": 200,
+      "silhouette": "Air Jordan 13",
+      "sku": "414571-171",
+      "story": "The 2023 edition of the Air Jordan 13 Retro ‘Wheat’ brings back the retro colorway, first released in October 2004. Like the original, the upper features a smooth white leather forefoot, tonal dimpled leather overlays, and beige synthetic suede paneling that extends from the midfoot to the heel. Embroidered Jumpman branding graces the tongue, while the 13’s holographic eye adorns the lateral collar. Synthetic suede wraps the Phylon midsole, fitted with encapsulated Air-sole cushioning in the forefoot and heel, and supported by a panther paw rubber outsole underfoot."
+  },
+  {
+      "id": "dc472ed2-f6dd-492d-8b60-1d418e9e6ac3",
+      "brand": "Nike",
+      "colorway": "Vibrant Yellow/Photo Blue-Team Orange",
+      "estimatedMarketValue": 130,
+      "gender": "men",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "https://stockx.com/nike-kd-3-retro-christmas-2023",
+          "goat": "",
+          "flightClub": "",
+          "stadiumGoods": ""
+      },
+      "name": "Nike KD 3 Retro Christmas (2023)",
+      "releaseDate": "2023-12-23",
+      "releaseYear": "2023",
+      "retailPrice": 130,
+      "silhouette": "Nike KD 3 Retro",
+      "sku": "FD5606-700",
+      "story": ""
+  },
+  {
+      "id": "6d3c2936-1b13-441d-a66f-95b6c328a911",
+      "brand": "Jordan",
+      "colorway": "Black/Fire Red/Fir/Cement Grey",
+      "estimatedMarketValue": 130,
+      "gender": "youth",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/air-jordan-2-retro-low-gs-christmas-fj6869-006",
+          "flightClub": "https://flightclub.com/air-jordan-2-retro-low-gs-christmas-fj6869-006",
+          "stadiumGoods": ""
+      },
+      "name": "Air Jordan 2 Retro Low GS 'Christmas'",
+      "releaseDate": "2023-12-16",
+      "releaseYear": "2023",
+      "retailPrice": 130,
+      "silhouette": "Air Jordan 2",
+      "sku": "FJ6869-006",
+      "story": ""
+  },
+  {
+      "id": "9b5ef541-498e-4143-9d5e-d2a694daf36f",
+      "brand": "Jordan",
+      "colorway": "Black/Fire Red/Fir/Cement Grey",
+      "estimatedMarketValue": 150,
+      "gender": "men",
+      "image": {
+          "360": [],
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/091/534/110/original/DV9956_006.png.png",
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/091/534/110/original/DV9956_006.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/091/534/110/original/DV9956_006.png.png"
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/air-jordan-2-retro-low-bred-dv9956-006",
+          "flightClub": "https://flightclub.com/air-jordan-2-retro-low-bred-dv9956-006",
+          "stadiumGoods": ""
+      },
+      "name": "Air Jordan 2 Retro Low 'Christmas'",
+      "releaseDate": "2023-12-16",
+      "releaseYear": "2023",
+      "retailPrice": 150,
+      "silhouette": "Air Jordan 2",
+      "sku": "DV9956-006",
+      "story": ""
+  },
+  {
+      "id": "0adb252f-ee09-4ff8-ae4b-71a0fb150c96",
+      "brand": "Nike",
+      "colorway": "Mean Green/Black/Lotus Pink",
+      "estimatedMarketValue": 135,
+      "gender": "men",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-buttercup-fz8319-300",
+          "flightClub": "https://flightclub.com/the-powerpuff-girls-x-dunk-low-pro-sb-qs-buttercup-fz8319-300",
+          "stadiumGoods": ""
+      },
+      "name": "The Powerpuff Girls x Dunk Low Pro SB QS 'Buttercup'",
+      "releaseDate": "2023-12-14",
+      "releaseYear": "2023",
+      "retailPrice": 135,
+      "silhouette": "Dunk SB",
+      "sku": "FZ8319-300",
+      "story": ""
+  },
+  {
+      "id": "1cf37c89-d992-4f18-b527-0934397d8d0b",
+      "brand": "Nike",
+      "colorway": "Blue Chill/Deep Royal Blue/Active Pink",
+      "estimatedMarketValue": 75,
+      "gender": "infant",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-td-bubbles-fz8830-400",
+          "flightClub": "https://flightclub.com/the-powerpuff-girls-x-dunk-low-pro-sb-qs-td-bubbles-fz8830-400",
+          "stadiumGoods": ""
+      },
+      "name": "The Powerpuff Girls x Dunk Low Pro SB QS TD 'Bubbles'",
+      "releaseDate": "2023-12-14",
+      "releaseYear": "2023",
+      "retailPrice": 75,
+      "silhouette": "Dunk SB",
+      "sku": "FZ8830-400",
+      "story": ""
+  },
+  {
+      "id": "44e20da9-eac6-4457-8370-e0622c64cdab",
+      "brand": "Nike",
+      "colorway": "Lotus Pink/Digital Pink/Medium Soft Pink",
+      "estimatedMarketValue": 90,
+      "gender": "youth",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-ps-blossom-fz3351-600",
+          "flightClub": "https://flightclub.com/the-powerpuff-girls-x-dunk-low-pro-sb-qs-ps-blossom-fz3351-600",
+          "stadiumGoods": ""
+      },
+      "name": "The Powerpuff Girls x Dunk Low Pro SB QS PS 'Blossom'",
+      "releaseDate": "2023-12-14",
+      "releaseYear": "2023",
+      "retailPrice": 90,
+      "silhouette": "Dunk SB",
+      "sku": "FZ3351-600",
+      "story": ""
+  },
+  {
+      "id": "64012eda-6357-443d-be3f-696683dede1a",
+      "brand": "Nike",
+      "colorway": "Mean Green/Black/Lotus Pink",
+      "estimatedMarketValue": 90,
+      "gender": "youth",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-ps-buttercup-fz8832-300",
+          "flightClub": "https://flightclub.com/the-powerpuff-girls-x-dunk-low-pro-sb-qs-ps-buttercup-fz8832-300",
+          "stadiumGoods": ""
+      },
+      "name": "The Powerpuff Girls x Dunk Low Pro SB QS PS 'Buttercup'",
+      "releaseDate": "2023-12-14",
+      "releaseYear": "2023",
+      "retailPrice": 90,
+      "silhouette": "Dunk SB",
+      "sku": "FZ8832-300",
+      "story": ""
+  },
+  {
+      "id": "7b4dec1f-4c59-4a73-882d-6623009630c4",
+      "brand": "Nike",
+      "colorway": "Lotus Pink/Digital Pink/Medium Soft Pink",
+      "estimatedMarketValue": 75,
+      "gender": "infant",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-td-blossom-fz3352-600",
+          "flightClub": "https://flightclub.com/the-powerpuff-girls-x-dunk-low-pro-sb-qs-td-blossom-fz3352-600",
+          "stadiumGoods": ""
+      },
+      "name": "The Powerpuff Girls x Dunk Low Pro SB QS TD 'Blossom'",
+      "releaseDate": "2023-12-14",
+      "releaseYear": "2023",
+      "retailPrice": 75,
+      "silhouette": "Dunk SB",
+      "sku": "FZ3352-600",
+      "story": ""
+  },
+  {
+      "id": "8d3b97af-4692-4b5d-8fa2-cb98db19045c",
+      "brand": "Nike",
+      "colorway": "Blue Chill/Deep Royal Blue/Active Pink",
+      "estimatedMarketValue": 135,
+      "gender": "men",
+      "image": {
+          "360": [],
+          "original": "",
+          "small": "",
+          "thumbnail": ""
+      },
+      "links": {
+          "stockX": "",
+          "goat": "https://goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-bubbles-fz8320-400",
+          "flightClub": "https://flightclub.com/the-powerpuff-girls-x-dunk-low-pro-sb-qs-bubbles-fz8320-400",
+          "stadiumGoods": ""
+      },
+      "name": "The Powerpuff Girls x Dunk Low Pro SB QS 'Bubbles'",
+      "releaseDate": "2023-12-14",
+      "releaseYear": "2023",
+      "retailPrice": 135,
+      "silhouette": "Dunk SB",
+      "sku": "FZ8320-400",
+      "story": ""
+  }
+]
